@@ -8,5 +8,6 @@ int main()
 {
 	printf("Fucking Hello World!!");
     return 0;
+	int k = [] () {return 1; }();
 }
 
