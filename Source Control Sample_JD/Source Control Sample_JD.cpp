@@ -8,5 +8,6 @@ int main()
 {
 
     return 0;
+	int k = [] () {return 1; }();
 }
 
